@@ -1,5 +1,5 @@
 # RGB Strip controller
-![Version](https://img.shields.io/badge/version-v1.0-orange.svg)
+![Version](https://img.shields.io/badge/version-v1.1-orange.svg)
 
 ***
 
